@@ -1,0 +1,4233 @@
+{
+    "Faculty": {
+        "Name": "NaN",
+        "Contact": "8318075616",
+        "Designation": "NaN                                                                             Assistant Professor                       NaN                  NaN"
+    },
+    "Sheets": {
+        "SHS": [
+            {
+                "Day": "Mon",
+                "Period": 6,
+                "Details": "BSC. IV SEM\nUI/UX (L)",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Mon",
+                "Period": 7,
+                "Details": "BSC. IV SEM\nUI/UX (L)",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Mon",
+                "Period": 9,
+                "Details": "BTECH ECE IV \nS&S (L)",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Mon",
+                "Period": 10,
+                "Details": "BTECH ECE IV \nS&S (L)",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Mon",
+                "Period": 11,
+                "Details": "BTECH ECE IV \nS&S",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Tue",
+                "Period": 5,
+                "Details": "BCA/BSC/MSC IV SEM\nOS (L)",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Tue",
+                "Period": 8,
+                "Details": "BTECH CSE\n2ND sem BEEE-L",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Tue",
+                "Period": 9,
+                "Details": "BTECH CSE\n2ND sem BEEE-L",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Tue",
+                "Period": 11,
+                "Details": "BTECH ECE IV \nS&S",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Wed",
+                "Period": 6,
+                "Details": "BTECH ECE IV \nS&S",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Wed",
+                "Period": 10,
+                "Details": "BTECH CSE 2ND \nSEM BEEE",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Thu",
+                "Period": 1,
+                "Details": "BCA/BSC/I.MSc\nOS (L)",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Thu",
+                "Period": 5,
+                "Details": "BTCH CSE 2ND SEM\nBEEE",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Thu",
+                "Period": 6,
+                "Details": "BTCH CSE 2ND SEM\nBEEE",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Fri",
+                "Period": 2,
+                "Details": "BTECH CSE B\nCloud Computing",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Fri",
+                "Period": 8,
+                "Details": "BTECH CSE 2ND \nSEM BEEE",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Fri",
+                "Period": 9,
+                "Details": "BTECH CSE 2ND \nSEM BEEE",
+                "Type": "Theory"
+            }
+        ],
+        "RS": [
+            {
+                "Day": "Mon",
+                "Period": 5,
+                "Details": "4CSE D D3\nCOA",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Mon",
+                "Period": 6,
+                "Details": "4CSE E I2\nCOA",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Mon",
+                "Period": 8,
+                "Details": "2 DA B D16 \nDSA",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Mon",
+                "Period": 10,
+                "Details": "2nd DSA \nAS Lab",
+                "Type": "Lab"
+            },
+            {
+                "Day": "Tue",
+                "Period": 3,
+                "Details": "2 DA A DSA \nScada Lab",
+                "Type": "Lab"
+            },
+            {
+                "Day": "Tue",
+                "Period": 5,
+                "Details": "2 DA B D16 \nDSA",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Tue",
+                "Period": 9,
+                "Details": "2nd IWP\nI5",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Tue",
+                "Period": 11,
+                "Details": "4CSE E I2\nCOA",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Wed",
+                "Period": 6,
+                "Details": "4CSE E I2\nCOA",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Wed",
+                "Period": 9,
+                "Details": "4CSE D D3\nCOA",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Thu",
+                "Period": 9,
+                "Details": "4CSE D D3\nCOA",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Thu",
+                "Period": 10,
+                "Details": "2 DA B D16 \nDSA lab",
+                "Type": "Lab"
+            },
+            {
+                "Day": "Fri",
+                "Period": 6,
+                "Details": "4CSE D D3\nCOA",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Fri",
+                "Period": 8,
+                "Details": "4CSE E I2\nCOA",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Fri",
+                "Period": 9,
+                "Details": "2 DA B D16 \nDSA",
+                "Type": "Theory"
+            }
+        ],
+        "D. SD": [
+            {
+                "Day": "Mon",
+                "Period": 2,
+                "Details": "AOR - CSE",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Mon",
+                "Period": 3,
+                "Details": "Maths- II GEN-AI -A",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Mon",
+                "Period": 7,
+                "Details": "Maths- II       DA-A",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Tue",
+                "Period": 2,
+                "Details": "AOR - AIML",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Tue",
+                "Period": 3,
+                "Details": "Maths- II GEN-AI -A",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Tue",
+                "Period": 6,
+                "Details": "Maths- II GAI-B+ AIML-C",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Wed",
+                "Period": 1,
+                "Details": "AOR - AIML",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Wed",
+                "Period": 3,
+                "Details": "Maths- II       DA-A",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Wed",
+                "Period": 7,
+                "Details": "Maths- II       DA-A",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Wed",
+                "Period": 8,
+                "Details": "Maths- II GAI-B+ AIML-C",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Thu",
+                "Period": 2,
+                "Details": "Maths- II GEN-AI -A",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Thu",
+                "Period": 3,
+                "Details": "AOR - CSE",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Thu",
+                "Period": 7,
+                "Details": "Maths- II       DA-A",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Thu",
+                "Period": 8,
+                "Details": "Maths- II GAI-B+ AIML-C",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Fri",
+                "Period": 1,
+                "Details": "AOR - AIML",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Fri",
+                "Period": 2,
+                "Details": "AOR - CSE",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Fri",
+                "Period": 5,
+                "Details": "Maths- II GAI-B+ AIML-C",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Fri",
+                "Period": 7,
+                "Details": "Maths- II GEN-AI -A",
+                "Type": "Theory"
+            }
+        ],
+        "RR": [
+            {
+                "Day": "Mon",
+                "Period": 10,
+                "Details": "DSA with C++ BTech SEM II Aiml C and GenAI B",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Tue",
+                "Period": 6,
+                "Details": "AI for Algorithm BSC SEM IV",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Tue",
+                "Period": 7,
+                "Details": "IDS BSC SEM IV",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Tue",
+                "Period": 9,
+                "Details": "AI for Algorithm BCA and M.Sc SEM IV",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Tue",
+                "Period": 11,
+                "Details": "DSA with C++ BTech SEM II Aiml C and GenAI B",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Wed",
+                "Period": 4,
+                "Details": "IDS LAB BSC SEM IV",
+                "Type": "Lab"
+            },
+            {
+                "Day": "Wed",
+                "Period": 6,
+                "Details": "AI for Decision Making BTech SEM IV AIML A and B",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Wed",
+                "Period": 11,
+                "Details": "DSA with C++ BTech SEM II Aiml C and GenAI B",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Thu",
+                "Period": 4,
+                "Details": "AI for Algorithm BSC SEM IV",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Thu",
+                "Period": 7,
+                "Details": "IDS BSC SEM IV",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Thu",
+                "Period": 9,
+                "Details": "DSA with C++ BTech SEM II Aiml C and GenAI B",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Thu",
+                "Period": 11,
+                "Details": "AI for Algorithm BCA and M.Sc SEM IV",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Fri",
+                "Period": 5,
+                "Details": "AI for Decision Making BTech SEM IV AIML C and D",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Fri",
+                "Period": 7,
+                "Details": "IDS BSC SEM IV",
+                "Type": "Theory"
+            }
+        ],
+        "PV": [
+            {
+                "Day": "Mon",
+                "Period": 1,
+                "Details": "COA\nPV\nIV CSE-C",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Mon",
+                "Period": 2,
+                "Details": "COA\nPV\nIV CSE-Cyber",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Mon",
+                "Period": 3,
+                "Details": "COA\nPV IV AIML - A",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Mon",
+                "Period": 6,
+                "Details": "COA\nPV [D9]-CSE C",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Tue",
+                "Period": 1,
+                "Details": "COA\nPV IV AIML - A",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Tue",
+                "Period": 2,
+                "Details": "COA\nPV\nIV CSE-Cyber",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Tue",
+                "Period": 3,
+                "Details": "COA\nPV\nIV CSE-A",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Tue",
+                "Period": 5,
+                "Details": "DSC++ - L\nD.RP, PV\n(NS-LAB)",
+                "Type": "Lab"
+            },
+            {
+                "Day": "Wed",
+                "Period": 1,
+                "Details": "COA\nPV\nIV CSE-Cyber",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Wed",
+                "Period": 2,
+                "Details": "COA\nPV\nIV CSE-A",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Wed",
+                "Period": 4,
+                "Details": "COA\nPV IV AIML - A",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Wed",
+                "Period": 6,
+                "Details": "COA\nPV\nIV CSE-C",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Thu",
+                "Period": 2,
+                "Details": "COA\nPV\nIV CSE-A",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Thu",
+                "Period": 3,
+                "Details": "DSC++ - L\nD.RP, PV\n(NS-LAB)",
+                "Type": "Lab"
+            },
+            {
+                "Day": "Fri",
+                "Period": 1,
+                "Details": "COA\nPV\nIV CSE-A",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Fri",
+                "Period": 2,
+                "Details": "COA\nPV IV AIML - A",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Fri",
+                "Period": 3,
+                "Details": "COA\nPV\nIV CSE-Cyber",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Fri",
+                "Period": 6,
+                "Details": "COA\nPV\nIV CSE-C",
+                "Type": "Theory"
+            }
+        ],
+        "D. JK": [
+            {
+                "Day": "Mon",
+                "Period": 3,
+                "Details": "EDG\nDA-A\n(D-16)",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Mon",
+                "Period": 6,
+                "Details": "EDG\nAIML-B\n(D-14)",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Tue",
+                "Period": 1,
+                "Details": "IC_MOOC\n4 CSE B",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Tue",
+                "Period": 2,
+                "Details": "EVS\n4 CSE-B",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Tue",
+                "Period": 4,
+                "Details": "",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Tue",
+                "Period": 5,
+                "Details": "EVS\n4 AIML B",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Wed",
+                "Period": 2,
+                "Details": "EDG\n2 AIML-A\n(D-14)",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Wed",
+                "Period": 3,
+                "Details": "EDG-L\nAIML-A\n(AS LAB)",
+                "Type": "Lab"
+            },
+            {
+                "Day": "Thu",
+                "Period": 1,
+                "Details": "EVS\n4 CSE-B",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Thu",
+                "Period": 3,
+                "Details": "EDG\n2 AIML-A\n(D-14)",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Thu",
+                "Period": 5,
+                "Details": "EVS\n4 AIML B",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Thu",
+                "Period": 8,
+                "Details": "EDG\nAIML-B\n(D-14)",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Thu",
+                "Period": 9,
+                "Details": "IC_MOOC\n4 AIML B",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Fri",
+                "Period": 2,
+                "Details": "EDG\nDA-A\n(D-16)",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Fri",
+                "Period": 3,
+                "Details": "EDG-L\nDA-A\n(AS LAB)",
+                "Type": "Lab"
+            },
+            {
+                "Day": "Fri",
+                "Period": 5,
+                "Details": "EDG-L\nAIMLB\n(AS LAB)",
+                "Type": "Lab"
+            }
+        ],
+        "D.CK": [
+            {
+                "Day": "Mon",
+                "Period": 1,
+                "Details": "DS. / D2",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Mon",
+                "Period": 6,
+                "Details": "AIML-D/ D-4",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Tue",
+                "Period": 6,
+                "Details": "CSE-E/ D-11",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Tue",
+                "Period": 8,
+                "Details": "AIML-C+ICT/ D5",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Tue",
+                "Period": 9,
+                "Details": "CSE-D/ D-2",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Tue",
+                "Period": 11,
+                "Details": "IKS-CSE B- D11",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Wed",
+                "Period": 6,
+                "Details": "AIML-D/ D-11",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Wed",
+                "Period": 7,
+                "Details": "IKS-Gen AI A- D15",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Wed",
+                "Period": 10,
+                "Details": "AIML-C+ICT/ D-5",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Wed",
+                "Period": 11,
+                "Details": "CSE-E/ I-2",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Thu",
+                "Period": 5,
+                "Details": "CSE-D/ D-3",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Thu",
+                "Period": 7,
+                "Details": "DS/ D-2",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Thu",
+                "Period": 9,
+                "Details": "AIML-D/ D-4",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Thu",
+                "Period": 10,
+                "Details": "AIML-D/ D-4",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Fri",
+                "Period": 5,
+                "Details": "CSE-E/ I-2",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Fri",
+                "Period": 6,
+                "Details": "DS/ D-2",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Fri",
+                "Period": 8,
+                "Details": "IKS-Gen AI B-I1",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Fri",
+                "Period": 9,
+                "Details": "CSE-D/ D-3",
+                "Type": "Theory"
+            }
+        ],
+        "UL": [
+            {
+                "Day": "Mon",
+                "Period": 1,
+                "Details": "6 AIML\nFSD \nST, UL(D-5)",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Mon",
+                "Period": 3,
+                "Details": "6 AIML\nCL-AI\nD. PA, UL(SCADA LAB)",
+                "Type": "Lab"
+            },
+            {
+                "Day": "Mon",
+                "Period": 6,
+                "Details": "6 AIML\nLLM\nVC, UL(D-8)",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Tue",
+                "Period": 2,
+                "Details": "4 AIML-A\nOOP-C++\nUL(I-04)",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Tue",
+                "Period": 3,
+                "Details": "4 AIML-A\nOOP-C++\nUL(I-04)",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Tue",
+                "Period": 4,
+                "Details": "4 CSE-B\nCOA\nUL(I-02)",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Wed",
+                "Period": 1,
+                "Details": "4 AIML-A\nOOP-C++\nUL(I-04)",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Wed",
+                "Period": 3,
+                "Details": "4 CSE-B\nCOA\nUL(I-02)",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Wed",
+                "Period": 5,
+                "Details": "4 AIML -C\nCOA\nUL(D-5)",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Wed",
+                "Period": 8,
+                "Details": "4 AIML -C\nCOA\nUL(D-5)",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Thu",
+                "Period": 1,
+                "Details": "4 AIML-A\nOOP-C++ -L\n(I-5)",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Thu",
+                "Period": 5,
+                "Details": "4 AIML -C\nCOA\nUL(D-5)",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Thu",
+                "Period": 6,
+                "Details": "4 CSE-B\nCOA\nUL(D-15)",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Fri",
+                "Period": 1,
+                "Details": "4 CSE-B\nCOA\nUL(I-2)",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Fri",
+                "Period": 8,
+                "Details": "4 AIML -C\nCOA\nUL(D-5)",
+                "Type": "Theory"
+            }
+        ],
+        "D.AK": [
+            {
+                "Day": "Mon",
+                "Period": 9,
+                "Details": "OOP C++\nIV BCA | D.AK",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Tue",
+                "Period": 5,
+                "Details": "OOP C++ (Lab)\n IV AIML-D | JA, D.AK",
+                "Type": "Lab"
+            },
+            {
+                "Day": "Tue",
+                "Period": 7,
+                "Details": "Mastering Kali Linux\nIV Cyber | D.AK",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Tue",
+                "Period": 10,
+                "Details": "OOP C++ (Lab)\n IV BCA | D.AK, ARS",
+                "Type": "Lab"
+            },
+            {
+                "Day": "Wed",
+                "Period": 2,
+                "Details": "Mastering Kali Linux (Lab)\n IV Cyber| D.AK, SA",
+                "Type": "Lab"
+            },
+            {
+                "Day": "Thu",
+                "Period": 4,
+                "Details": "OOP C++ (Lab)\n IV CSE-A | MD, D.AK",
+                "Type": "Lab"
+            },
+            {
+                "Day": "Thu",
+                "Period": 6,
+                "Details": "Mastering Kali Linux\nIV Cyber | D.AK",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Thu",
+                "Period": 9,
+                "Details": "OOP C++\nIV BCA | D.AK",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Fri",
+                "Period": 5,
+                "Details": "OOP C++\nIV BCA | D.AK",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Fri",
+                "Period": 7,
+                "Details": "Mastering Kali Linux\nIV Cyber | D.AK",
+                "Type": "Theory"
+            }
+        ],
+        "Arvind": [
+            {
+                "Day": "Mon",
+                "Period": 5,
+                "Details": "DS using C++ Btech (CSE-DS) 2nd SEM D15",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Mon",
+                "Period": 6,
+                "Details": "OOP-C++ L \n SK, ARS BSC(M1)",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Mon",
+                "Period": 10,
+                "Details": "DSC++ - L\n ARS, Nikky M\n ( I-5 LAB) II ECE+(HONS)+CSE-C\nroom - I5",
+                "Type": "Lab"
+            },
+            {
+                "Day": "Tue",
+                "Period": 9,
+                "Details": "DS using C++ Btech (CSE) 2nd SEM II ECE+(HONS)+CSE-C (D-10)\nRoom D10",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Tue",
+                "Period": 10,
+                "Details": "OOPC++ -L\n D.AK, ARS(MSC 4 (Noon)) AS Lab",
+                "Type": "Lab"
+            },
+            {
+                "Day": "Wed",
+                "Period": 3,
+                "Details": "OOP-C++ : VC (CSE-F)\n OOP C++ : ARS (DS) class - D2",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Wed",
+                "Period": 10,
+                "Details": "DS using C++ Btech (CSE) 2nd SEM II ECE+(HONS)+CSE-C (D-10)",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Wed",
+                "Period": 11,
+                "Details": "DS using C++ Btech (CSE-DS) 2nd SEM D16",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Thu",
+                "Period": 3,
+                "Details": "OOPC++ -L\n Gaurav, ARS(MSC 4 (Noon)) I5",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Thu",
+                "Period": 6,
+                "Details": "DS using C++ Btech (CSE-DS) 2nd SEM D16",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Fri",
+                "Period": 5,
+                "Details": "DSC++\n ARS\n (D-09)SEM II ECE+(HONS)+CSE-C D-09",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Fri",
+                "Period": 10,
+                "Details": "DSC++ - L\n ARS, RS\n (NS LAB) CSE-DS+HONS",
+                "Type": "Lab"
+            }
+        ],
+        "YKJ": [
+            {
+                "Day": "Mon",
+                "Period": 5,
+                "Details": "BEEE EC D-11",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Mon",
+                "Period": 10,
+                "Details": "BEEE DS D-15",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Tue",
+                "Period": 5,
+                "Details": "BEEE LAB-DS",
+                "Type": "Lab"
+            },
+            {
+                "Day": "Tue",
+                "Period": 8,
+                "Details": "BEEE DS D-11",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Wed",
+                "Period": 5,
+                "Details": "BEEE LAB-EC",
+                "Type": "Lab"
+            },
+            {
+                "Day": "Wed",
+                "Period": 8,
+                "Details": "BEEE LAB-DS",
+                "Type": "Lab"
+            },
+            {
+                "Day": "Wed",
+                "Period": 10,
+                "Details": "BEE-Cloud D-15",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Thu",
+                "Period": 4,
+                "Details": "Mooc Cyber D-11",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Thu",
+                "Period": 6,
+                "Details": "BEEE EC I-1",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Thu",
+                "Period": 8,
+                "Details": "BEEE LAB-EC",
+                "Type": "Lab"
+            },
+            {
+                "Day": "Fri",
+                "Period": 4,
+                "Details": "Mooc Aiml-A I-4",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Fri",
+                "Period": 8,
+                "Details": "BEEE-Cloud D-9",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Fri",
+                "Period": 10,
+                "Details": "BEEE-Cloud",
+                "Type": "Theory"
+            }
+        ],
+        "D. MN": [
+            {
+                "Day": "Mon",
+                "Period": 4,
+                "Details": "CSE-Cyber",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Mon",
+                "Period": 8,
+                "Details": "CSE-DS",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Mon",
+                "Period": 9,
+                "Details": "ECE /CSE-C",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Mon",
+                "Period": 11,
+                "Details": "CSE-CLOUD & Paytm",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Tue",
+                "Period": 7,
+                "Details": "CSE-Cyber",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Tue",
+                "Period": 9,
+                "Details": "CSE-CLOUD & Paytm",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Tue",
+                "Period": 10,
+                "Details": "ECE /CSE-C",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Tue",
+                "Period": 11,
+                "Details": "CSE-CLOUD & Paytm",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Wed",
+                "Period": 4,
+                "Details": "CSE-Cyber",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Wed",
+                "Period": 5,
+                "Details": "CSE-DS",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Wed",
+                "Period": 8,
+                "Details": "ECE /CSE-C",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Wed",
+                "Period": 9,
+                "Details": "CSE-CLOUD & Paytm",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Wed",
+                "Period": 10,
+                "Details": "CSE-DS (IKS)",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Thu",
+                "Period": 5,
+                "Details": "ECE /CSE-C",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Thu",
+                "Period": 9,
+                "Details": "CSE-DS",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Thu",
+                "Period": 10,
+                "Details": "ECE /CSE-C",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Fri",
+                "Period": 4,
+                "Details": "CSE-Cyber",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Fri",
+                "Period": 6,
+                "Details": "CSE-DS",
+                "Type": "Theory"
+            }
+        ],
+        "ANS": [
+            {
+                "Day": "Mon",
+                "Period": 10,
+                "Details": "COA\nANS\n4 AIML-B",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Mon",
+                "Period": 11,
+                "Details": "COA\nANS\n4 AIML-D",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Tue",
+                "Period": 5,
+                "Details": "COA\nANS\n4 DS / CSE-F",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Tue",
+                "Period": 10,
+                "Details": "COA\nANS\n4 AIML-B",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Wed",
+                "Period": 2,
+                "Details": "COA\nANS\n4 DS/CSE F",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Wed",
+                "Period": 6,
+                "Details": "DSC++ - L\nSD,ANS\n2-Cyber",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Wed",
+                "Period": 8,
+                "Details": "COA\nANS\n4 AIML-D",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Thu",
+                "Period": 1,
+                "Details": "IOT\nMR, ANS\n6-AIML",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Thu",
+                "Period": 2,
+                "Details": "IOT\nMR, ANS\n6-AIML",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Thu",
+                "Period": 6,
+                "Details": "COA\nANS\n4 CSE-F/ D",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Thu",
+                "Period": 8,
+                "Details": "COA\nANS\n4 AIML-D",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Fri",
+                "Period": 4,
+                "Details": "COA\nANS\n4 DS / CSE-F",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Fri",
+                "Period": 5,
+                "Details": "COA\nANS\n4 AIML-B",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Fri",
+                "Period": 6,
+                "Details": "IIS-L\nSS, ANS\n4-CSE-B",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Fri",
+                "Period": 9,
+                "Details": "COA\nANS\n4 AIML-D",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Fri",
+                "Period": 11,
+                "Details": "COA\nANS\n4 AIML-B",
+                "Type": "Theory"
+            }
+        ],
+        "GH": [
+            {
+                "Day": "Mon",
+                "Period": 4,
+                "Details": "OOP C++\nIV CSE-Cyber | GH",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Mon",
+                "Period": 6,
+                "Details": "OOP C++\nIV CSE-B | GH",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Mon",
+                "Period": 10,
+                "Details": "IIS (Lab)\nIV AIML-C | MS, GH",
+                "Type": "Lab"
+            },
+            {
+                "Day": "Tue",
+                "Period": 5,
+                "Details": "OOP C++\nIV CSE-Cyber | GH",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Tue",
+                "Period": 6,
+                "Details": "OOP C++\nIV CSE-B | GH",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Tue",
+                "Period": 10,
+                "Details": "ADC\nIV ECE | GH",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Wed",
+                "Period": 4,
+                "Details": "OOP C++\nIV CSE-B | GH",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Wed",
+                "Period": 6,
+                "Details": "OOP C++\nIV CSE-Cyber | GH",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Wed",
+                "Period": 9,
+                "Details": "ADC\nIV ECE | GH",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Wed",
+                "Period": 10,
+                "Details": "ADC (Lab)\nIV ECE | GH",
+                "Type": "Lab"
+            },
+            {
+                "Day": "Thu",
+                "Period": 3,
+                "Details": "OOP C++ (Lab)\n IV CSE-Cyber | GH, ARS",
+                "Type": "Lab"
+            },
+            {
+                "Day": "Thu",
+                "Period": 8,
+                "Details": "ADC\nIV ECE | GH",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Fri",
+                "Period": 1,
+                "Details": "OOP C++ (Lab)\nIV CSE-C | VC, GH",
+                "Type": "Lab"
+            },
+            {
+                "Day": "Fri",
+                "Period": 3,
+                "Details": "OOP C++ (Lab)\n IV CSE-B | GH, DM",
+                "Type": "Lab"
+            }
+        ],
+        "Dr. KS": [
+            {
+                "Day": "Mon",
+                "Period": 8,
+                "Details": "Applied Physics  Lab B. Tech CSE-Cloud",
+                "Type": "Lab"
+            },
+            {
+                "Day": "Tue",
+                "Period": 5,
+                "Details": "Applied Physics  Lab B. Tech (H) CSE-DS",
+                "Type": "Lab"
+            },
+            {
+                "Day": "Tue",
+                "Period": 9,
+                "Details": "Applied Physics  B. Tech. / B. Tech (H) CSE-DS",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Wed",
+                "Period": 5,
+                "Details": "Applied Physics  B. Tech (H) CSE-Cloud",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Wed",
+                "Period": 8,
+                "Details": "Applied Physics  Lab B. Tech CSE-DS",
+                "Type": "Lab"
+            },
+            {
+                "Day": "Wed",
+                "Period": 11,
+                "Details": "Indian Constitution B. Tech AIML C/ICT",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Thu",
+                "Period": 8,
+                "Details": "Applied Physics  B. Tech. / B. Tech (H) CSE-DS",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Fri",
+                "Period": 9,
+                "Details": "Applied Physics  B. Tech (H) CSE-Cloud",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Fri",
+                "Period": 11,
+                "Details": "Indian Constitution B. Tech ECE",
+                "Type": "Theory"
+            }
+        ],
+        "SR": [
+            {
+                "Day": "Mon",
+                "Period": 1,
+                "Details": "CS\n6 CSE A",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Mon",
+                "Period": 2,
+                "Details": "CP\n4 CSE A",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Mon",
+                "Period": 3,
+                "Details": "CP LAB\n4 CSE B",
+                "Type": "Lab"
+            },
+            {
+                "Day": "Mon",
+                "Period": 7,
+                "Details": "CP\n4 CSE B",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Tue",
+                "Period": 1,
+                "Details": "CS\n6 CSE A",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Tue",
+                "Period": 5,
+                "Details": "CP LAB\n4 CSE D",
+                "Type": "Lab"
+            },
+            {
+                "Day": "Tue",
+                "Period": 7,
+                "Details": "CP\n4 CSE A",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Wed",
+                "Period": 1,
+                "Details": "CP\n4 CSE A",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Wed",
+                "Period": 2,
+                "Details": "CP\n4 CSE B",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Wed",
+                "Period": 5,
+                "Details": "CS LAB\n6 CSE A",
+                "Type": "Lab"
+            },
+            {
+                "Day": "Thu",
+                "Period": 3,
+                "Details": "CP\n4 CSE B",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Thu",
+                "Period": 9,
+                "Details": "CP LAB\n4 CSE E",
+                "Type": "Lab"
+            },
+            {
+                "Day": "Fri",
+                "Period": 1,
+                "Details": "CS\n6 CSE A",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Fri",
+                "Period": 2,
+                "Details": "CP-LAB\n4 CSE A",
+                "Type": "Lab"
+            }
+        ],
+        "RM": [
+            {
+                "Day": "Mon",
+                "Period": 3,
+                "Details": "IWP-L AIML-A\nMSH/RM\nAS Lab",
+                "Type": "Lab"
+            },
+            {
+                "Day": "Mon",
+                "Period": 4,
+                "Details": "IWP-L AIML-A\nMSH/RM\nAS Lab",
+                "Type": "Lab"
+            },
+            {
+                "Day": "Mon",
+                "Period": 10,
+                "Details": "IWP-L AIML-B\nRM/MSH\n(SCADA LAB)",
+                "Type": "Lab"
+            },
+            {
+                "Day": "Mon",
+                "Period": 11,
+                "Details": "IWP-L AIML-B\nRM/MSH\n(SCADA LAB)",
+                "Type": "Lab"
+            },
+            {
+                "Day": "Tue",
+                "Period": 9,
+                "Details": "IWP-L AIML-C\nRM/MSH\nI5",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Tue",
+                "Period": 10,
+                "Details": "IWP-L AIML-C\nRM/MSH\nI5",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Wed",
+                "Period": 4,
+                "Details": "IWP DA-A\nRM\n(D-16)",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Wed",
+                "Period": 6,
+                "Details": "IWP AIML-B\nRM\n( I-01)",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Wed",
+                "Period": 9,
+                "Details": "IWP AIML-C\nRM\nD9",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Thu",
+                "Period": 4,
+                "Details": "IWP DA-A\nRM\n(D-16)",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Thu",
+                "Period": 6,
+                "Details": "IWP-L GenAI-A\nMSH/RM\n(AS-LAB)",
+                "Type": "Lab"
+            },
+            {
+                "Day": "Thu",
+                "Period": 7,
+                "Details": "IWP-L GenAI-A\nMSH/RM\n(AS-LAB)",
+                "Type": "Lab"
+            },
+            {
+                "Day": "Thu",
+                "Period": 9,
+                "Details": "IWP AIML-B\nRM\n( D-14)",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Thu",
+                "Period": 11,
+                "Details": "IWP AIML-C\nRM\nD 15",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Fri",
+                "Period": 6,
+                "Details": "IWP-L DA-A\nRM/MSH\n(NS-LAB)",
+                "Type": "Lab"
+            },
+            {
+                "Day": "Fri",
+                "Period": 7,
+                "Details": "IWP-L DA-A\nRM/MSH\n(NS-LAB)",
+                "Type": "Lab"
+            },
+            {
+                "Day": "Fri",
+                "Period": 10,
+                "Details": "IWP-L DA-B\nMSH/RM\nScada Lab",
+                "Type": "Lab"
+            },
+            {
+                "Day": "Fri",
+                "Period": 11,
+                "Details": "IWP-L DA-B\nMSH/RM\nScada Lab",
+                "Type": "Lab"
+            }
+        ],
+        "MD": [
+            {
+                "Day": "Mon",
+                "Period": 3,
+                "Details": "WTD LAB\nM-1",
+                "Type": "Lab"
+            },
+            {
+                "Day": "Mon",
+                "Period": 6,
+                "Details": "UI UX [LAB]\nBS 6th Sem\nD-1",
+                "Type": "Lab"
+            },
+            {
+                "Day": "Mon",
+                "Period": 10,
+                "Details": "Applied AI [LAB]\nNS LAB",
+                "Type": "Lab"
+            },
+            {
+                "Day": "Tue",
+                "Period": 7,
+                "Details": "UI UX\nBS 6th Sem\nD3",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Wed",
+                "Period": 4,
+                "Details": "OOPS with C++\n4-CSE-A\nI-1",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Wed",
+                "Period": 6,
+                "Details": "UI UX\nBS 6th Sem\nD1",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Wed",
+                "Period": 7,
+                "Details": "OOPS with C++\n4-CSE-A\nI-1",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Thu",
+                "Period": 4,
+                "Details": "OOPS with C++ [LAB]\n4-CSE-A\nI-1",
+                "Type": "Lab"
+            },
+            {
+                "Day": "Thu",
+                "Period": 6,
+                "Details": "DS [LAB]\n2-AIML-A\nNS LAB",
+                "Type": "Lab"
+            },
+            {
+                "Day": "Thu",
+                "Period": 10,
+                "Details": "Applied AI [LAB]\nNS LAB",
+                "Type": "Lab"
+            },
+            {
+                "Day": "Fri",
+                "Period": 3,
+                "Details": "UI UX\nBS 6th Sem\nD1",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Fri",
+                "Period": 6,
+                "Details": "OOPS with C++\n4-CSE-A\nI-1",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Fri",
+                "Period": 8,
+                "Details": "WTD LAB\nM-1",
+                "Type": "Lab"
+            }
+        ],
+        "SA": [
+            {
+                "Day": "Mon",
+                "Period": 5,
+                "Details": "4th- iMSc Ethical Hacking - M1",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Mon",
+                "Period": 6,
+                "Details": "6th-BTech-CSE  Unix & Shell Programming LAB  NS-LAB",
+                "Type": "Lab"
+            },
+            {
+                "Day": "Tue",
+                "Period": 6,
+                "Details": "6th-BTech-CSE- Unix & Shell Programming D-4",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Tue",
+                "Period": 7,
+                "Details": "4th- iMSc Ethical Hacking - M1",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Wed",
+                "Period": 2,
+                "Details": "4th BTech-(Cyber)   Mastering Kali Linux (Lab)\n D.AK, SA",
+                "Type": "Lab"
+            },
+            {
+                "Day": "Wed",
+                "Period": 4,
+                "Details": "6th-BTech-AIML  Unix & Shell Programming LAB  SCADA-LAB",
+                "Type": "Lab"
+            },
+            {
+                "Day": "Wed",
+                "Period": 6,
+                "Details": "4th- iMSc Ethical Hacking - M1",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Wed",
+                "Period": 7,
+                "Details": "6th-BTech-AIML- Unix & Shell Programming D-5",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Thu",
+                "Period": 4,
+                "Details": "6th-BTech-CSE- Unix & Shell Programming D-3",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Thu",
+                "Period": 5,
+                "Details": "4th- iMSc Ethical Hacking - LAB  D-6",
+                "Type": "Lab"
+            },
+            {
+                "Day": "Thu",
+                "Period": 7,
+                "Details": "6th-BTech-AIML- Unix & Shell Programming D-5",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Thu",
+                "Period": 10,
+                "Details": "2 DA B  \nDSA lab   D-16  RS,SA",
+                "Type": "Lab"
+            },
+            {
+                "Day": "Fri",
+                "Period": 3,
+                "Details": "6th-BTech-AIML- Unix & Shell Programming D-5",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Fri",
+                "Period": 7,
+                "Details": "6th-BTech-CSE- Unix & Shell Programming D-4",
+                "Type": "Theory"
+            }
+        ],
+        "MSH": [
+            {
+                "Day": "Mon",
+                "Period": 3,
+                "Details": "AIML-A IWP-L MSH/RM",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Mon",
+                "Period": 6,
+                "Details": "IIS-L SS, MSH(CYBER)",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Mon",
+                "Period": 10,
+                "Details": "AIML-B IWP-L RM/MSH",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Tue",
+                "Period": 4,
+                "Details": "IWP GEN-AI-A",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Tue",
+                "Period": 6,
+                "Details": "AIML-A IWP",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Wed",
+                "Period": 6,
+                "Details": "IIS-LHM, MSH-CSE(D)",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Wed",
+                "Period": 9,
+                "Details": "IWP - DA-B",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Thu",
+                "Period": 4,
+                "Details": "AIML-A IWP",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Thu",
+                "Period": 6,
+                "Details": "GEN-AI-AIWP-L MSH/RM",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Thu",
+                "Period": 9,
+                "Details": "IWP - DA-B",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Fri",
+                "Period": 4,
+                "Details": "IWP GEN-AI-A",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Fri",
+                "Period": 6,
+                "Details": "DA-A IWP-L RM/MSH",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Fri",
+                "Period": 10,
+                "Details": "DA-B IWP-L MSH/RM",
+                "Type": "Theory"
+            }
+        ],
+        "D.BS": [
+            {
+                "Day": "Mon",
+                "Period": 3,
+                "Details": "CP\n D.BS \n - DIVISION",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Mon",
+                "Period": 6,
+                "Details": "CP\n D.BS \n F- DIVISION",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Mon",
+                "Period": 9,
+                "Details": "Cloud\n D.BS\n E-Division",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Mon",
+                "Period": 10,
+                "Details": "Cloud\n D.BS\n D-Division",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Tue",
+                "Period": 5,
+                "Details": "Cloud-L\n D.BS, D.AM\n D-Division",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Tue",
+                "Period": 7,
+                "Details": "CP\n D.BS\n F- DIVISION",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Tue",
+                "Period": 9,
+                "Details": "Cloud\n D.BS\n E-Division",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Wed",
+                "Period": 10,
+                "Details": "Cloud\n D.BS\n E-Division",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Wed",
+                "Period": 11,
+                "Details": "Cloud\n D.BS\n D-Division",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Thu",
+                "Period": 4,
+                "Details": "CP \n BS\n F- DIVISION",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Thu",
+                "Period": 6,
+                "Details": "Cloud\n D.BS\n D-Division",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Thu",
+                "Period": 9,
+                "Details": "Cloud -L\n D.BS, SR\n E-Division",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Fri",
+                "Period": 1,
+                "Details": "CP \n BS\n F- DIVISION",
+                "Type": "Theory"
+            }
+        ],
+        "Divya": [
+            {
+                "Day": "Mon",
+                "Period": 3,
+                "Details": "IC -CYBER\nDM",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Mon",
+                "Period": 5,
+                "Details": "OOP-C++ (AIML-C)\nDM",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Mon",
+                "Period": 11,
+                "Details": "OOP-C++ (AIML-B)\nDM",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Tue",
+                "Period": 5,
+                "Details": "OOP-C++ (AIML-C)\nDM, SK",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Tue",
+                "Period": 9,
+                "Details": "OOP-C++ (AIML-B)\nDM",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Tue",
+                "Period": 10,
+                "Details": "OOPS-C++ (CSE-D)\nJA, DM",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Wed",
+                "Period": 9,
+                "Details": "OOP-C++ (AIML-C)\nDM",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Wed",
+                "Period": 10,
+                "Details": "OOP-C++- (AIML-B)\nDM, SK",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Thu",
+                "Period": 6,
+                "Details": "OOP-C++ (CSE-E)\nJA, DM",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Thu",
+                "Period": 10,
+                "Details": "OOP-C++ (AIML-B)\nDM",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Thu",
+                "Period": 11,
+                "Details": "OOP-C++ (AIML-C)\nDM",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Fri",
+                "Period": 3,
+                "Details": "OOP C++ (CSE-B)\nGH, DM",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Fri",
+                "Period": 8,
+                "Details": "IC - AIML-D\nDM",
+                "Type": "Theory"
+            }
+        ],
+        "DAB": [
+            {
+                "Day": "Mon",
+                "Period": 7,
+                "Details": "2 GAI A",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Mon",
+                "Period": 8,
+                "Details": "4 CSE D (D3)",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Mon",
+                "Period": 10,
+                "Details": "4 AIML D (D4)",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Tue",
+                "Period": 5,
+                "Details": "2 GAI B",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Tue",
+                "Period": 6,
+                "Details": "2 GAI A",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Tue",
+                "Period": 10,
+                "Details": "2 DA B",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Wed",
+                "Period": 9,
+                "Details": "4 AIML D (D13)",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Wed",
+                "Period": 10,
+                "Details": "2 DA B",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Thu",
+                "Period": 5,
+                "Details": "2 DA B",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Thu",
+                "Period": 9,
+                "Details": "4 AIML C (D13)",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Thu",
+                "Period": 10,
+                "Details": "2 GAI B",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Thu",
+                "Period": 11,
+                "Details": "4 CSE D (D3)",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Fri",
+                "Period": 3,
+                "Details": "2 GAI A",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Fri",
+                "Period": 9,
+                "Details": "4 AIML C (D13)",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Fri",
+                "Period": 10,
+                "Details": "2 GAI B",
+                "Type": "Theory"
+            }
+        ],
+        "MS": [
+            {
+                "Day": "Mon",
+                "Period": 4,
+                "Details": "IIS\nDS+CSE-F",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Mon",
+                "Period": 8,
+                "Details": "IIS-L \nAIML-B",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Mon",
+                "Period": 10,
+                "Details": "IIS-L \nAIML-C",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Tue",
+                "Period": 6,
+                "Details": "IIS\nAIML-B",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Tue",
+                "Period": 8,
+                "Details": "IIS-L\nAIML-D",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Tue",
+                "Period": 10,
+                "Details": "IIS MS\nAIML-C",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Tue",
+                "Period": 11,
+                "Details": "IIS\nAIML-D",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Wed",
+                "Period": 6,
+                "Details": "IIS MS\nAIML-C",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Wed",
+                "Period": 7,
+                "Details": "IIS\nDS+CSE-F",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Wed",
+                "Period": 9,
+                "Details": "IIS \nAIML-B",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Wed",
+                "Period": 10,
+                "Details": "IIS\nAIML-D",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Thu",
+                "Period": 3,
+                "Details": "IIS\nDS+CSE-F",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Thu",
+                "Period": 5,
+                "Details": "IIS\nAIML-D",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Thu",
+                "Period": 6,
+                "Details": "IIS \nAIML-B",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Thu",
+                "Period": 8,
+                "Details": "IIS\nAIML-C",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Fri",
+                "Period": 2,
+                "Details": "IIS-L\nMS (CSE-F and DS)\n[Single faculty] [ Room D2]",
+                "Type": "Theory"
+            }
+        ],
+        "UK": [
+            {
+                "Day": "Mon",
+                "Period": 6,
+                "Details": "6 BSc\n Off Sec -L",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Mon",
+                "Period": 10,
+                "Details": "4 BCA / IMSc\n OS",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Tue",
+                "Period": 1,
+                "Details": "4 BSc\n OS",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Tue",
+                "Period": 5,
+                "Details": "4 BCA / IMSc\n OS -L\n UK, SHS",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Tue",
+                "Period": 7,
+                "Details": "6 BSc\n Off Sec",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Wed",
+                "Period": 1,
+                "Details": "DSC++- L\n 2 GEN AI- A\n AM, UK",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Wed",
+                "Period": 5,
+                "Details": "4 BCA / IMSc\n OS",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Wed",
+                "Period": 6,
+                "Details": "6 BSc\n Off Sec",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Thu",
+                "Period": 1,
+                "Details": "4 BSc\n OS -L\n UK, SHS",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Thu",
+                "Period": 6,
+                "Details": "4 BSc\n OS",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Fri",
+                "Period": 1,
+                "Details": "4 BSc\n OS",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Fri",
+                "Period": 2,
+                "Details": "IIS- L\n 4CSE-F/DS\n MS, UK",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Fri",
+                "Period": 6,
+                "Details": "4 BCA / IMSc\n OS",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Fri",
+                "Period": 7,
+                "Details": "6 BSc\n Off Sec",
+                "Type": "Theory"
+            }
+        ],
+        "VC": [
+            {
+                "Day": "Mon",
+                "Period": 3,
+                "Details": "OOP-C++\n4 CSE-F/DS",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Mon",
+                "Period": 6,
+                "Details": "LLM : LAB\n6 AIML",
+                "Type": "Lab"
+            },
+            {
+                "Day": "Tue",
+                "Period": 1,
+                "Details": "OOP-C++\n4 CSE-C",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Tue",
+                "Period": 2,
+                "Details": "OOP-C++\n4 CSE-F/DS",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Tue",
+                "Period": 3,
+                "Details": "OOP-C++\n4 CSE-F/DS",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Tue",
+                "Period": 7,
+                "Details": "LLM\n6 AIML",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Wed",
+                "Period": 1,
+                "Details": "FSD : LAB\n6 BS/MS",
+                "Type": "Lab"
+            },
+            {
+                "Day": "Wed",
+                "Period": 3,
+                "Details": "OOP-C++ : LAB\n4 CSE-F/DS",
+                "Type": "Lab"
+            },
+            {
+                "Day": "Wed",
+                "Period": 6,
+                "Details": "LLM\n6 AIML",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Thu",
+                "Period": 1,
+                "Details": "OOP-C++ : LAB\n4 AIML-A",
+                "Type": "Lab"
+            },
+            {
+                "Day": "Thu",
+                "Period": 3,
+                "Details": "LLM\n6 AIML",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Thu",
+                "Period": 6,
+                "Details": "OOP-C++\n4 CSE-C",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Fri",
+                "Period": 1,
+                "Details": "OOP-C++ : LAB\n4 CSE-C",
+                "Type": "Lab"
+            },
+            {
+                "Day": "Fri",
+                "Period": 7,
+                "Details": "OOP-C++\n4 CSE-C",
+                "Type": "Theory"
+            }
+        ],
+        "ND": [
+            {
+                "Day": "Mon",
+                "Period": 4,
+                "Details": "IIS DS CSE F",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Mon",
+                "Period": 6,
+                "Details": "IIS Cyber",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Tue",
+                "Period": 1,
+                "Details": "IIS DS CSE F",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Tue",
+                "Period": 3,
+                "Details": "IIS Cyber",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Wed",
+                "Period": 4,
+                "Details": "IIS Cyber",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Wed",
+                "Period": 8,
+                "Details": "IIS CSE E Sup",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Thu",
+                "Period": 1,
+                "Details": "IIS DS CSE F",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Thu",
+                "Period": 2,
+                "Details": "IIS Cyber",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Fri",
+                "Period": 2,
+                "Details": "IIS DS CSE F",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Fri",
+                "Period": 6,
+                "Details": "IIS AIML A Sup",
+                "Type": "Theory"
+            }
+        ],
+        "D.YV": [
+            {
+                "Day": "Mon",
+                "Period": 5,
+                "Details": "Maths-II \n  II CSE B",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Mon",
+                "Period": 8,
+                "Details": "Maths-II \n  II AIML B",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Mon",
+                "Period": 9,
+                "Details": "Maths-II \n  II CSE B",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Tue",
+                "Period": 4,
+                "Details": "Maths-II \n  II AIML A",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Tue",
+                "Period": 5,
+                "Details": "IKS_MOOC\nII AIML B",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Tue",
+                "Period": 8,
+                "Details": "Maths-II \n  II AIML B",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Wed",
+                "Period": 6,
+                "Details": "Maths-II \n  II CSE A",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Wed",
+                "Period": 7,
+                "Details": "Maths-II \n  II AIML A",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Wed",
+                "Period": 11,
+                "Details": "Maths-II \n  II AIML B",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Thu",
+                "Period": 1,
+                "Details": "Maths-II \n  II AIML A",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Thu",
+                "Period": 2,
+                "Details": "Maths-II \n  II CSE A",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Thu",
+                "Period": 5,
+                "Details": "Maths-II \n  II AIML B",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Thu",
+                "Period": 8,
+                "Details": "Maths-II \n  II CSE B",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Fri",
+                "Period": 1,
+                "Details": "Maths-II \n  II AIML A",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Fri",
+                "Period": 2,
+                "Details": "Maths-II \n  II CSE A",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Fri",
+                "Period": 3,
+                "Details": "IKS_MOOC\nII AIML A",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Fri",
+                "Period": 6,
+                "Details": "Maths-II \n  II CSE B",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Fri",
+                "Period": 7,
+                "Details": "Maths-II \n  II CSE A",
+                "Type": "Theory"
+            }
+        ],
+        "NR": [
+            {
+                "Day": "Mon",
+                "Period": 5,
+                "Details": "IVAIML-D",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Mon",
+                "Period": 6,
+                "Details": "IVAIML-C/ICT/ECE",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Mon",
+                "Period": 7,
+                "Details": "IVCSE-A",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Mon",
+                "Period": 9,
+                "Details": "IVCSE-D",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Mon",
+                "Period": 10,
+                "Details": "IVCSE-E",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Mon",
+                "Period": 11,
+                "Details": "IVBCA,MSC",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Tue",
+                "Period": 4,
+                "Details": "IVCSE-F, IV DS",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Tue",
+                "Period": 9,
+                "Details": "IVAIML-C/ICT/ECE",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Tue",
+                "Period": 10,
+                "Details": "IVCSE-E",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Tue",
+                "Period": 11,
+                "Details": "IVAIML-B",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Wed",
+                "Period": 5,
+                "Details": "IVAIML-D",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Wed",
+                "Period": 7,
+                "Details": "IVCSE-B IVCSE-C",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Wed",
+                "Period": 11,
+                "Details": "IVBCA,MSC",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Thu",
+                "Period": 1,
+                "Details": "IVCSE-A",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Thu",
+                "Period": 3,
+                "Details": "IV BSC",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Thu",
+                "Period": 4,
+                "Details": "IVCSE-B + IVCSE-C",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Thu",
+                "Period": 6,
+                "Details": "IV AIML-A",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Thu",
+                "Period": 7,
+                "Details": "IV CYBER",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Thu",
+                "Period": 8,
+                "Details": "IVCSE-D",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Fri",
+                "Period": 1,
+                "Details": "IV AIML-A",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Fri",
+                "Period": 2,
+                "Details": "IV BSC",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Fri",
+                "Period": 4,
+                "Details": "IV CYBER",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Fri",
+                "Period": 7,
+                "Details": "IVCSE-F, IV DS",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Fri",
+                "Period": 8,
+                "Details": "IVAIML-B",
+                "Type": "Theory"
+            }
+        ],
+        "HM": [
+            {
+                "Day": "Mon",
+                "Period": 4,
+                "Details": "CLAI/6-BSC-MSC",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Mon",
+                "Period": 6,
+                "Details": "IIS/4-CSE-D",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Mon",
+                "Period": 8,
+                "Details": "IIS L / 4-AIML B",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Mon",
+                "Period": 9,
+                "Details": "IIS L / 4-AIML B",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Tue",
+                "Period": 1,
+                "Details": "CLAI L/6-BSC-MSC",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Tue",
+                "Period": 2,
+                "Details": "CLAI L/6-BSC-MSC",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Wed",
+                "Period": 2,
+                "Details": "IIS / 4-AIML A",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Wed",
+                "Period": 5,
+                "Details": "IIS/4-CSE-D",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Wed",
+                "Period": 6,
+                "Details": "IIS L /4-CSE-D",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Wed",
+                "Period": 7,
+                "Details": "IIS L /4-CSE-D",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Thu",
+                "Period": 1,
+                "Details": "IIS L / 4- CSE-C",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Thu",
+                "Period": 2,
+                "Details": "IIS L / 4- CSE-C",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Thu",
+                "Period": 3,
+                "Details": "CLAI/6-BSC-MSC",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Thu",
+                "Period": 4,
+                "Details": "IIS / 4-AIML A",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Fri",
+                "Period": 1,
+                "Details": "CLAI/6-BSC-MSC",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Fri",
+                "Period": 3,
+                "Details": "IIS / 4- AIML A",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Fri",
+                "Period": 6,
+                "Details": "IIS L / 4- AIML A",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Fri",
+                "Period": 7,
+                "Details": "IIS L / 4 -AIML A",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Fri",
+                "Period": 8,
+                "Details": "IIS/ 4- CSE-D",
+                "Type": "Theory"
+            }
+        ],
+        "TSP": [
+            {
+                "Day": "Mon",
+                "Period": 5,
+                "Details": "AAI-Lab, 2-GAI-B, AS LAB",
+                "Type": "Lab"
+            },
+            {
+                "Day": "Mon",
+                "Period": 10,
+                "Details": "AAI-Lab, 2-DA-B, NS LAB",
+                "Type": "Lab"
+            },
+            {
+                "Day": "Tue",
+                "Period": 5,
+                "Details": "AAI-Lab, 2-ECE,CSE-C,EC(HONS), SCADA LAB",
+                "Type": "Lab"
+            },
+            {
+                "Day": "Tue",
+                "Period": 9,
+                "Details": "AAI-2-DA-B-D16",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Tue",
+                "Period": 10,
+                "Details": "AAI-Lab, 2-AIML-B, SCADA LAB",
+                "Type": "Lab"
+            },
+            {
+                "Day": "Wed",
+                "Period": 8,
+                "Details": "AAI-2-AIML-B-D14",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Wed",
+                "Period": 9,
+                "Details": "AAI-2-ECE+ECCE(HONS)+CSE(C)",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Wed",
+                "Period": 11,
+                "Details": "AAI-2-CSE-B-D11",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Thu",
+                "Period": 6,
+                "Details": "AAI-Lab, 2-CSE-A, SCADA LAB",
+                "Type": "Lab"
+            },
+            {
+                "Day": "Thu",
+                "Period": 10,
+                "Details": "AAI-Lab, 2-CSE-B, NS LAB",
+                "Type": "Lab"
+            },
+            {
+                "Day": "Fri",
+                "Period": 5,
+                "Details": "AAI-2-CSE(HONS)+DS, D-10",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Fri",
+                "Period": 8,
+                "Details": "AAI-2-CSE(HONS)+DS, SCADA LAB",
+                "Type": "Lab"
+            }
+        ],
+        "MR": [
+            {
+                "Day": "Mon",
+                "Period": 3,
+                "Details": "FSD Lab\nVI CSE",
+                "Type": "Lab"
+            },
+            {
+                "Day": "Mon",
+                "Period": 6,
+                "Details": "I-ML Lab\nIV DS",
+                "Type": "Lab"
+            },
+            {
+                "Day": "Tue",
+                "Period": 1,
+                "Details": "CL - AI Lab\nVI BSC",
+                "Type": "Lab"
+            },
+            {
+                "Day": "Tue",
+                "Period": 3,
+                "Details": "IoT \nVI AIML",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Tue",
+                "Period": 7,
+                "Details": "I-ML\nIV DS",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Wed",
+                "Period": 2,
+                "Details": "IoT \nVI AIML",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Wed",
+                "Period": 6,
+                "Details": "E-IoT  Lab\nIV AIML A & B",
+                "Type": "Lab"
+            },
+            {
+                "Day": "Thu",
+                "Period": 1,
+                "Details": "IoT Lab\nVI AIML",
+                "Type": "Lab"
+            },
+            {
+                "Day": "Thu",
+                "Period": 4,
+                "Details": "I-ML\nIV DS",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Fri",
+                "Period": 1,
+                "Details": "I-ML\nIV DS",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Fri",
+                "Period": 2,
+                "Details": "IoT \nVI AIML",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Fri",
+                "Period": 6,
+                "Details": "IIS Lab\nIV AIML A",
+                "Type": "Lab"
+            }
+        ],
+        "JSP": [
+            {
+                "Day": "Mon",
+                "Period": 1,
+                "Details": "Applied AI\n2 Gen AI- A Lab",
+                "Type": "Lab"
+            },
+            {
+                "Day": "Mon",
+                "Period": 6,
+                "Details": "EIoT\n4 AIML A+B",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Mon",
+                "Period": 8,
+                "Details": "EIoT\n4 AIML C+D",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Tue",
+                "Period": 1,
+                "Details": "Applied AI\nAIML- A Lab\n2  Lab",
+                "Type": "Lab"
+            },
+            {
+                "Day": "Tue",
+                "Period": 4,
+                "Details": "Applied AI\n2 Cyber",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Tue",
+                "Period": 7,
+                "Details": "EIoT\n4 AIML A+B",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Wed",
+                "Period": 2,
+                "Details": "Applied AI\n2 Cyber Lab",
+                "Type": "Lab"
+            },
+            {
+                "Day": "Wed",
+                "Period": 6,
+                "Details": "EIoT\n4 AIML A+B Lab",
+                "Type": "Lab"
+            },
+            {
+                "Day": "Thu",
+                "Period": 1,
+                "Details": "Applied AI\nCSE-AIML-DA\n2  Lab",
+                "Type": "Lab"
+            },
+            {
+                "Day": "Thu",
+                "Period": 6,
+                "Details": "EIoT\n4 AIML C+D",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Thu",
+                "Period": 7,
+                "Details": "EIoT\n4 AIML A+B",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Fri",
+                "Period": 5,
+                "Details": "EIoT\n4 AIML C+D Lab",
+                "Type": "Lab"
+            },
+            {
+                "Day": "Fri",
+                "Period": 10,
+                "Details": "EIoT\n4 AIML C+D",
+                "Type": "Theory"
+            }
+        ],
+        "AST": [],
+        "SK": [
+            {
+                "Day": "Mon",
+                "Period": 6,
+                "Details": "OOPS IN C++          4BSC",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Mon",
+                "Period": 9,
+                "Details": "DS IN C++ 2AIML",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Tue",
+                "Period": 5,
+                "Details": "OOPS IN C++          4AIML",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Tue",
+                "Period": 7,
+                "Details": "DS IN C++ 2AIML",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Tue",
+                "Period": 9,
+                "Details": "DS IN C++ 2AIML",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Wed",
+                "Period": 3,
+                "Details": "OOPS IN C++  4BSC",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Wed",
+                "Period": 6,
+                "Details": "DS IN C++ 2AIML",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Wed",
+                "Period": 7,
+                "Details": "OOPS IN C++  4BSC",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Wed",
+                "Period": 9,
+                "Details": "DS IN C++ 2AIML",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Wed",
+                "Period": 10,
+                "Details": "OOPS IN C++          4AIML",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Thu",
+                "Period": 6,
+                "Details": "DS IN C++ 2AIML",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Fri",
+                "Period": 3,
+                "Details": "OOPS IN C++  4BSC",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Fri",
+                "Period": 7,
+                "Details": "DS IN C++ 2AIML",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Fri",
+                "Period": 8,
+                "Details": "DS IN C++ 2AIML",
+                "Type": "Theory"
+            }
+        ],
+        "ST": [
+            {
+                "Day": "Mon",
+                "Period": 1,
+                "Details": "FSD AIML",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Mon",
+                "Period": 3,
+                "Details": "FSD CSE",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Mon",
+                "Period": 6,
+                "Details": "UNIX CSE Sup",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Tue",
+                "Period": 1,
+                "Details": "FSD AIML",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Tue",
+                "Period": 2,
+                "Details": "FSD CSE",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Tue",
+                "Period": 4,
+                "Details": "FSD BSC/MSC",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Wed",
+                "Period": 1,
+                "Details": "FSD BSC/MSC",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Wed",
+                "Period": 4,
+                "Details": "UNIX AIML Sup",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Thu",
+                "Period": 1,
+                "Details": "FSD BSC/MSC",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Thu",
+                "Period": 2,
+                "Details": "FSD CSE",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Thu",
+                "Period": 6,
+                "Details": "FSD AIML",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Fri",
+                "Period": 2,
+                "Details": "FSD BSC/MSC",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Fri",
+                "Period": 3,
+                "Details": "FSD CSE",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Fri",
+                "Period": 6,
+                "Details": "FSD AIML",
+                "Type": "Theory"
+            }
+        ],
+        "D.AP": [
+            {
+                "Day": "Mon",
+                "Period": 1,
+                "Details": "DSC++",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Mon",
+                "Period": 6,
+                "Details": "AI for DecisionMaking -  AIML(A&B)",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Mon",
+                "Period": 8,
+                "Details": "AI for DecisionMaking -  AIML(C&D)",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Tue",
+                "Period": 1,
+                "Details": "DSC++",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Tue",
+                "Period": 5,
+                "Details": "Cloud Computing",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Tue",
+                "Period": 7,
+                "Details": "AI for DecisionMaking -  AIML(A&B)",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Wed",
+                "Period": 1,
+                "Details": "DSC++",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Wed",
+                "Period": 6,
+                "Details": "LAB- AI for DecisionMaking -  AIML(A&B)",
+                "Type": "Lab"
+            },
+            {
+                "Day": "Wed",
+                "Period": 8,
+                "Details": "Introduction to Intelligent System",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Thu",
+                "Period": 1,
+                "Details": "DSC++",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Thu",
+                "Period": 6,
+                "Details": "AI for DecisionMaking -  AIML(A&B)",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Thu",
+                "Period": 7,
+                "Details": "AI for DecisionMaking -  AIML(C&D)",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Fri",
+                "Period": 5,
+                "Details": "lAB- AI for DecisionMaking -  AIML(C&D)",
+                "Type": "Lab"
+            },
+            {
+                "Day": "Fri",
+                "Period": 10,
+                "Details": "AI for DecisionMaking -  AIML(C&D)",
+                "Type": "Theory"
+            }
+        ],
+        "UD": [],
+        "D.RP": [
+            {
+                "Day": "Mon",
+                "Period": 4,
+                "Details": "Data Structure Using C++ (A)",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Mon",
+                "Period": 5,
+                "Details": "SPM",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Mon",
+                "Period": 6,
+                "Details": "Data Structure Using C++ (B)",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Tue",
+                "Period": 4,
+                "Details": "Data Structure Using C++ (A)",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Tue",
+                "Period": 5,
+                "Details": "Data Structure Using C++ (B)-Lab",
+                "Type": "Lab"
+            },
+            {
+                "Day": "Tue",
+                "Period": 8,
+                "Details": "SPM",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Wed",
+                "Period": 4,
+                "Details": "Data Structure Using C++ (A)",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Wed",
+                "Period": 5,
+                "Details": "Data Structure Using C++ (B)",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Wed",
+                "Period": 6,
+                "Details": "SPM",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Thu",
+                "Period": 3,
+                "Details": "Data Structure Using C++ (A)-Lab",
+                "Type": "Lab"
+            },
+            {
+                "Day": "Thu",
+                "Period": 5,
+                "Details": "SPM Lab",
+                "Type": "Lab"
+            },
+            {
+                "Day": "Fri",
+                "Period": 5,
+                "Details": "E IOT  -Lab",
+                "Type": "Lab"
+            },
+            {
+                "Day": "Fri",
+                "Period": 8,
+                "Details": "Data Structure Using C++ (B)",
+                "Type": "Theory"
+            }
+        ],
+        "NM": [
+            {
+                "Day": "Mon",
+                "Period": 3,
+                "Details": "WTD-L\nBSC SEM 4\n(NM,MD)",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Mon",
+                "Period": 6,
+                "Details": "WTD\nBCA/INT MSC-4",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Mon",
+                "Period": 10,
+                "Details": "DSC++ - L\nCSE C & ECE SEM 2\nARS, NM\n(I5 LAB)",
+                "Type": "Lab"
+            },
+            {
+                "Day": "Tue",
+                "Period": 3,
+                "Details": "WTD\n BSC-4",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Tue",
+                "Period": 4,
+                "Details": "WTD\n BSC-4",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Wed",
+                "Period": 3,
+                "Details": "IB\n BSC/INT MSC-6",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Wed",
+                "Period": 4,
+                "Details": "IDS-L\n BSC-4\n (RR,NM)",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Wed",
+                "Period": 7,
+                "Details": "IB\nBSC/INT MSC-6",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Wed",
+                "Period": 9,
+                "Details": "WTD\nBCA/ INT MSC-4",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Thu",
+                "Period": 6,
+                "Details": "IB\nBSC/INT MSC-6 (NM)",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Thu",
+                "Period": 8,
+                "Details": "WTD\nBCA/ INT MSC-4",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Fri",
+                "Period": 4,
+                "Details": "WTD\n BSC-4",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Fri",
+                "Period": 5,
+                "Details": "IB\n BSC/INT MSC-6",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Fri",
+                "Period": 8,
+                "Details": "WTD\nBCA/INT MSC-4\n(NM,MD)",
+                "Type": "Theory"
+            }
+        ],
+        "Dr. CT": [
+            {
+                "Day": "Mon",
+                "Period": 2,
+                "Details": "4TH CSE-C EVS",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Mon",
+                "Period": 5,
+                "Details": "4TH CSE-E EVS",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Mon",
+                "Period": 6,
+                "Details": "4TH CSE-A EVS",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Mon",
+                "Period": 8,
+                "Details": "2ND EC + CSE-C APPLIED PHYSICS",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Tue",
+                "Period": 1,
+                "Details": "2ND CSE-A APPLIED PHYSICS LAB",
+                "Type": "Lab"
+            },
+            {
+                "Day": "Tue",
+                "Period": 3,
+                "Details": "4TH CSE-C EVS",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Tue",
+                "Period": 4,
+                "Details": "4TH CSE-A EVS",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Tue",
+                "Period": 8,
+                "Details": "4TH CSE-E EVS",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Wed",
+                "Period": 1,
+                "Details": "2ND CSE-A APPLIED PHYSICS LAB",
+                "Type": "Lab"
+            },
+            {
+                "Day": "Wed",
+                "Period": 3,
+                "Details": "4TH AIML A EVS",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Wed",
+                "Period": 5,
+                "Details": "2ND EC + CSE-C LAB",
+                "Type": "Lab"
+            },
+            {
+                "Day": "Thu",
+                "Period": 1,
+                "Details": "2ND CSE-A APPLIED PHYSICS",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Thu",
+                "Period": 3,
+                "Details": "4TH AIML A EVS",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Thu",
+                "Period": 8,
+                "Details": "2ND EC + CSE-C APPLIED PHYSICS LAB",
+                "Type": "Lab"
+            },
+            {
+                "Day": "Fri",
+                "Period": 3,
+                "Details": "2ND CSE-A APPLIED PHYSICS",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Fri",
+                "Period": 8,
+                "Details": "2ND EC + CSE-C APPLIED PHYSICS",
+                "Type": "Theory"
+            }
+        ],
+        "JRA": [
+            {
+                "Day": "Mon",
+                "Period": 7,
+                "Details": "IKS MOOC\n2 CSE A (D10)",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Mon",
+                "Period": 9,
+                "Details": "OOPS-C++ \nIV AIML D - (D4)",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Mon",
+                "Period": 11,
+                "Details": "OOPS-C++ \nIV CSE E - (I2)",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Tue",
+                "Period": 5,
+                "Details": "OOPS-C++ LAB\nIV AIML D - (JRA, D.AKA) - (AS Lab)",
+                "Type": "Lab"
+            },
+            {
+                "Day": "Tue",
+                "Period": 8,
+                "Details": "OOPS-C++ \nIV CSE D - (D2)",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Tue",
+                "Period": 10,
+                "Details": "OOPS-C++ LAB\nIV CSE D - (JRA, DM) - (NS Lab)",
+                "Type": "Lab"
+            },
+            {
+                "Day": "Wed",
+                "Period": 3,
+                "Details": "IAD (IBM)\n2 Gen AI A (D14)",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Wed",
+                "Period": 5,
+                "Details": "OOPS-C++ \nIV CSE E - (I2)",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Wed",
+                "Period": 6,
+                "Details": "IAD (IBM)\n2 Gen AI B (D9)",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Wed",
+                "Period": 9,
+                "Details": "OOPS-C++ \nIV CSE D - (D3)",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Wed",
+                "Period": 11,
+                "Details": "OOPS-C++ \nIV AIML D - (D4)",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Thu",
+                "Period": 6,
+                "Details": "OOPS-C++ LAB\nIV CSE E - (JA, DM) - (NS Lab)",
+                "Type": "Lab"
+            },
+            {
+                "Day": "Thu",
+                "Period": 10,
+                "Details": "OOPS-C++ \nIV CSE D - (D3)",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Thu",
+                "Period": 11,
+                "Details": "OOPS-C++ \nIV AIML D - (D4)",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Fri",
+                "Period": 6,
+                "Details": "OOPS-C++ \nIV CSE E - (I2)",
+                "Type": "Theory"
+            }
+        ],
+        "SS": [
+            {
+                "Day": "Mon",
+                "Period": 1,
+                "Details": "IIS CseB\nSS",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Mon",
+                "Period": 3,
+                "Details": "IIS Cse C\nSS",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Mon",
+                "Period": 4,
+                "Details": "IIS\nSS- CSE A",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Mon",
+                "Period": 6,
+                "Details": "IIS-L CYBER\nSS, MSH",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Tue",
+                "Period": 1,
+                "Details": "IIS-L CSEA\nSS (NS Lab)",
+                "Type": "Lab"
+            },
+            {
+                "Day": "Tue",
+                "Period": 3,
+                "Details": "IIS CYBER\nSS (Room M3)",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Tue",
+                "Period": 7,
+                "Details": "IIS Cse C\nSS",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Wed",
+                "Period": 1,
+                "Details": "IIS CseB\nSS (Room I2)",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Wed",
+                "Period": 3,
+                "Details": "IIS Cse C\nSS",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Wed",
+                "Period": 7,
+                "Details": "IIS CYBER\nSS (Room M3)",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Thu",
+                "Period": 1,
+                "Details": "IIS-L Cse C\nSS",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Thu",
+                "Period": 3,
+                "Details": "IIS\nSS CSEA",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Thu",
+                "Period": 7,
+                "Details": "IIS\nSS CSEA",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Fri",
+                "Period": 1,
+                "Details": "IIS CYBER\nSS (Room M3)",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Fri",
+                "Period": 2,
+                "Details": "IIS CseB\nSS",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Fri",
+                "Period": 6,
+                "Details": "IIS-L CseB\nSS",
+                "Type": "Theory"
+            }
+        ],
+        "D.SVD": [
+            {
+                "Day": "Mon",
+                "Period": 2,
+                "Details": "PS                       4CSE-B",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Mon",
+                "Period": 3,
+                "Details": "PS                       4CSE-A",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Mon",
+                "Period": 5,
+                "Details": "IKS_MOOC       2AIML DA-B",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Mon",
+                "Period": 7,
+                "Details": "Maths-II            2 AIML DA-B",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Mon",
+                "Period": 8,
+                "Details": "FPS                       4BCA+MSc",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Tue",
+                "Period": 2,
+                "Details": "FPS                       4BSc",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Tue",
+                "Period": 6,
+                "Details": "PS                       4CSE-A",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Tue",
+                "Period": 7,
+                "Details": "IKS_MOOC       2AIML DA-A",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Tue",
+                "Period": 8,
+                "Details": "Maths-II            2AIML DA-B",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Wed",
+                "Period": 1,
+                "Details": "FPS                       4BSc",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Wed",
+                "Period": 5,
+                "Details": "Maths-II            2AIML DA-B",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Wed",
+                "Period": 6,
+                "Details": "PS                       4CSE-B",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Wed",
+                "Period": 8,
+                "Details": "FPS                       4BCA+MSc",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Thu",
+                "Period": 7,
+                "Details": "PS                       4CSE-B",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Thu",
+                "Period": 8,
+                "Details": "Maths-II            2AIML DA-B",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Thu",
+                "Period": 10,
+                "Details": "FPS                       4BCA+MSc",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Fri",
+                "Period": 6,
+                "Details": "FPS                       4BSc",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Fri",
+                "Period": 7,
+                "Details": "PS                       4CSE-A",
+                "Type": "Theory"
+            }
+        ],
+        "D.KSK": [
+            {
+                "Day": "Mon",
+                "Period": 1,
+                "Details": "PS                       4 Cyber",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Mon",
+                "Period": 4,
+                "Details": "PS                       4 AIML-A",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Mon",
+                "Period": 5,
+                "Details": "PS                       4 AIML-B",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Mon",
+                "Period": 7,
+                "Details": "PS                       4 AIML-A",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Mon",
+                "Period": 8,
+                "Details": "IC(MOOC)                       4 CSE-E",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Tue",
+                "Period": 1,
+                "Details": "PS                       4 Cyber",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Tue",
+                "Period": 4,
+                "Details": "PS                       4 AIML-A",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Tue",
+                "Period": 5,
+                "Details": "PS                       6 BS/IMS",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Tue",
+                "Period": 6,
+                "Details": "IKS(MOOC)                       2 Cloud",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Wed",
+                "Period": 2,
+                "Details": "PS                       4 CSE-C",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Wed",
+                "Period": 5,
+                "Details": "PS                       4 AIML-B",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Thu",
+                "Period": 1,
+                "Details": "PS                       4 Cyber",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Thu",
+                "Period": 2,
+                "Details": "PS                       6 BS/IMS",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Thu",
+                "Period": 3,
+                "Details": "PS                       4 CSE-C",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Fri",
+                "Period": 3,
+                "Details": "PS                       4 CSE-C",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Fri",
+                "Period": 4,
+                "Details": "PS                       6 BS/IMS",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Fri",
+                "Period": 5,
+                "Details": "IC(MOOC)                       4 CSE-D",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Fri",
+                "Period": 6,
+                "Details": "PS                       4 AIML-B",
+                "Type": "Theory"
+            }
+        ],
+        "D.EV": [
+            {
+                "Day": "Mon",
+                "Period": 1,
+                "Details": "BEEE\n(II CSE-A)",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Mon",
+                "Period": 2,
+                "Details": "BEEE\n(II CYBER)",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Mon",
+                "Period": 6,
+                "Details": "BEEE LAB\n(II CYBER)",
+                "Type": "Lab"
+            },
+            {
+                "Day": "Tue",
+                "Period": 1,
+                "Details": "BEEE LAB\n(II CSE-A)",
+                "Type": "Lab"
+            },
+            {
+                "Day": "Tue",
+                "Period": 3,
+                "Details": "BEEE\n(II CYBER)",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Tue",
+                "Period": 8,
+                "Details": "MP&I\n(IV ECE) D7",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Wed",
+                "Period": 1,
+                "Details": "BEEE LAB\n(II CSE-A)",
+                "Type": "Lab"
+            },
+            {
+                "Day": "Wed",
+                "Period": 3,
+                "Details": "BEEE\n(II CSE-A)",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Wed",
+                "Period": 6,
+                "Details": "IC-MOOC\n(IV CSE-F/DS)",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Wed",
+                "Period": 8,
+                "Details": "MP&I\n(IV ECE) D7",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Thu",
+                "Period": 5,
+                "Details": "MP&I\n(IV ECE) D7",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Thu",
+                "Period": 7,
+                "Details": "IC-MOOC\n(IV CSE-C)",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Thu",
+                "Period": 10,
+                "Details": "MP&I- L\n(IV ECE) D7",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Fri",
+                "Period": 4,
+                "Details": "IC-MOOC\n(IV CSE-A)",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Fri",
+                "Period": 6,
+                "Details": "BEEE LAB\n(II CYBER)",
+                "Type": "Lab"
+            }
+        ],
+        "SD": [
+            {
+                "Day": "Mon",
+                "Period": 1,
+                "Details": "DSC++- CSE CYBER\n(D-11)",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Mon",
+                "Period": 2,
+                "Details": "DSC++- DA-A\n(D-16)",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Mon",
+                "Period": 5,
+                "Details": "DSC++ - L-cloud\n(SCADA LAB)",
+                "Type": "Lab"
+            },
+            {
+                "Day": "Tue",
+                "Period": 1,
+                "Details": "IIS -  \nIV CSE A\n(I-1)",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Tue",
+                "Period": 3,
+                "Details": "DSC++ -L- DA-A\n(SCADA-LAB)",
+                "Type": "Lab"
+            },
+            {
+                "Day": "Wed",
+                "Period": 1,
+                "Details": "DSC++ - CSE CYBER\n(D-11)",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Wed",
+                "Period": 2,
+                "Details": "DSC++- DA -A\n(D-16)",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Wed",
+                "Period": 6,
+                "Details": "DSC++ -L- CSE CYBER\n(NS LAB)",
+                "Type": "Lab"
+            },
+            {
+                "Day": "Wed",
+                "Period": 8,
+                "Details": "DSC++- CLOUD\n(D-15)",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Thu",
+                "Period": 5,
+                "Details": "DSC++ - cloud\n(D-09)",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Thu",
+                "Period": 8,
+                "Details": "DSC++ - cloud\n(D-09)",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Fri",
+                "Period": 1,
+                "Details": "DSC++- DA-A\n(D-16)",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Fri",
+                "Period": 3,
+                "Details": "DSC++ - CSE CYBER \n(D-15)",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Fri",
+                "Period": 8,
+                "Details": "DSC++ - L-AIML B\n(AS LAB)",
+                "Type": "Lab"
+            }
+        ],
+        "DrPA": [
+            {
+                "Day": "Mon",
+                "Period": 3,
+                "Details": "CL-AI (AIML)",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Tue",
+                "Period": 4,
+                "Details": "CL-AI (CSE)",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Tue",
+                "Period": 6,
+                "Details": "CL-AI (AIML)",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Wed",
+                "Period": 7,
+                "Details": "CL-AI (CSE)",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Thu",
+                "Period": 4,
+                "Details": "CL-AI (AIML)",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Thu",
+                "Period": 6,
+                "Details": "CL-AI (CSE)",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Fri",
+                "Period": 6,
+                "Details": "CL-AI (CSE)",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Fri",
+                "Period": 7,
+                "Details": "CL-AI (AIML)",
+                "Type": "Theory"
+            }
+        ],
+        "Dr.MK": [
+            {
+                "Day": "Mon",
+                "Period": 8,
+                "Details": "II B.Tech -ECE & ICT",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Tue",
+                "Period": 4,
+                "Details": "B.Tech-CSE(CL-AI)",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Wed",
+                "Period": 1,
+                "Details": "B.Tech-CSE(RA)",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Wed",
+                "Period": 4,
+                "Details": "B.Tech-CSE(RA)",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Wed",
+                "Period": 5,
+                "Details": "Bsc & Msc(RM)",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Thu",
+                "Period": 1,
+                "Details": "B.Tech-CSE(RA)",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Thu",
+                "Period": 4,
+                "Details": "Bsc & Msc(RM)",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Thu",
+                "Period": 6,
+                "Details": "II B.Tech -ECE & ICT",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Fri",
+                "Period": 4,
+                "Details": "B.Tech-CSE(RA)",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Fri",
+                "Period": 5,
+                "Details": "II B.Tech -ECE & ICT",
+                "Type": "Theory"
+            },
+            {
+                "Day": "Fri",
+                "Period": 10,
+                "Details": "II B.Tech -ECE & ICT",
+                "Type": "Theory"
+            }
+        ]
+    }
+}
