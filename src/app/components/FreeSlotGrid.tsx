@@ -393,9 +393,9 @@ export function FreeSlotGrid({ facultyList, selectedDay = "All", onDayChange, on
               key={day}
               initial={{ opacity: 0, y: 20 }}
               animate={{ opacity: 1, y: 0 }}
-              className="bg-white dark:bg-slate-800 rounded-2xl shadow-lg dark:shadow-black/20 overflow-hidden"
+              className="bg-white dark:bg-slate-800 rounded-2xl shadow-lg dark:shadow-black/20"
             >
-              <div className={`p-4 ${isToday 
+              <div className={`p-4 rounded-t-2xl ${isToday 
                 ? "bg-gradient-to-r from-indigo-900 to-purple-700 text-white" 
                 : "bg-gray-50 dark:bg-slate-900 text-gray-900 dark:text-slate-100"}`}
               >
