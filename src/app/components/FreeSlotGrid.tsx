@@ -23,7 +23,9 @@ interface FreeSlotGridProps {
 function FacultyDropdown({ freeFaculty, onFacultyClick }: { freeFaculty: Faculty[]; onFacultyClick?: (faculty: Faculty) => void }) {
   const [isOpen, setIsOpen] = useState(false);
   const [selectedFaculty, setSelectedFaculty] = useState<Faculty | null>(null);
+  const [openUpward, setOpenUpward] = useState(false);
   const dropdownRef = useRef<HTMLDivElement>(null);
+  const triggerRef = useRef<HTMLButtonElement>(null);
 
   // Close dropdown on outside click
   useEffect(() => {
@@ -35,6 +37,16 @@ function FacultyDropdown({ freeFaculty, onFacultyClick }: { freeFaculty: Faculty
     document.addEventListener("mousedown", handleClickOutside);
     return () => document.removeEventListener("mousedown", handleClickOutside);
   }, []);
+
+  // Determine if dropdown should open upward
+  const handleToggle = () => {
+    if (!isOpen && triggerRef.current) {
+      const rect = triggerRef.current.getBoundingClientRect();
+      const spaceBelow = window.innerHeight - rect.bottom;
+      setOpenUpward(spaceBelow < 280);
+    }
+    setIsOpen(!isOpen);
+  };
 
   if (freeFaculty.length === 0) {
     return (
@@ -49,7 +61,8 @@ function FacultyDropdown({ freeFaculty, onFacultyClick }: { freeFaculty: Faculty
     <div ref={dropdownRef} className="relative">
       {/* Dropdown trigger */}
       <button
-        onClick={() => setIsOpen(!isOpen)}
+        ref={triggerRef}
+        onClick={handleToggle}
         className={`w-full flex items-center justify-between gap-2 px-3 py-2.5 rounded-xl border-2 transition-all text-left
           ${isOpen 
             ? "border-indigo-400 dark:border-indigo-500 bg-indigo-50 dark:bg-indigo-950/40 shadow-md shadow-indigo-100 dark:shadow-indigo-900/20" 
@@ -74,12 +87,11 @@ function FacultyDropdown({ freeFaculty, onFacultyClick }: { freeFaculty: Faculty
       <AnimatePresence>
         {isOpen && (
           <motion.div
-            initial={{ opacity: 0, y: -8, scale: 0.95 }}
+            initial={{ opacity: 0, y: openUpward ? 8 : -8, scale: 0.95 }}
             animate={{ opacity: 1, y: 0, scale: 1 }}
-            exit={{ opacity: 0, y: -8, scale: 0.95 }}
+            exit={{ opacity: 0, y: openUpward ? 8 : -8, scale: 0.95 }}
             transition={{ duration: 0.15 }}
-            className="absolute z-50 mt-1.5 w-64 bg-white dark:bg-slate-800 rounded-xl shadow-xl dark:shadow-black/30 border border-gray-200 dark:border-slate-600 overflow-hidden"
-            style={{ left: "50%", transform: "translateX(-50%)" }}
+            className={`absolute z-50 left-0 right-0 bg-white dark:bg-slate-800 rounded-xl shadow-xl dark:shadow-black/30 border border-gray-200 dark:border-slate-600 overflow-hidden ${openUpward ? 'bottom-full mb-1.5' : 'mt-1.5'}`}
           >
             <div className="px-3 py-2 bg-gradient-to-r from-indigo-50 to-purple-50 dark:from-indigo-950/50 dark:to-purple-950/50 border-b border-gray-100 dark:border-slate-700">
               <p className="text-xs font-semibold text-indigo-800 dark:text-indigo-300">
